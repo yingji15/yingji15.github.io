@@ -9,7 +9,7 @@ Hi there, this is my first post. Currently, I am a 4th year graduate student. Ma
 
 For example, I have 3 tasks at hand: writing the first paper, starting a new project and learn a new technique for an ongoing project.  All of them are new to me and make me struggle in some ways. I imagine this is the common situation for many graduate students. The isolation and loneliness is also probably also famililar to all research students. The question is how should I learn to accomplish these new tasks? My advisor is supportive and gives good advice on directions but his job is not figuring out the details on my tasks. Also, I realize that I am probably less competent than he was as a Ph.D. student. So he might not understand some of my struggles since he never ran into it. Thus, I want to find some tutorials that walk me through on how these type of tasks (e.g. write a 1st paper) usually get done. As everything is becoming open source today, I thought I could use some advice from advisors online, let the community educate me.
 
-I've read through a lot of online posts. Most of them are either too generic or too specific for me. Lucily, here are a few posts I found really helpful to my case, and likely applicable to many fields.
+I've read through a lot of online posts and some books. Most of them are either too generic or too specific for me. Lucily, here are a few posts I found really helpful to my case, and likely applicable to many fields.
 
 # time management
 
@@ -17,15 +17,25 @@ I have done all the coursework now. So I have long hours sitting in front of my 
 
 <https://livefreeordichotomize.com/2018/09/14/one-year-to-dissertate/>
 
-# how to write paper?
+# how to do 'deep work' in a distracted world?
+
+I strongly recommend the book *deep work*. I used to be online all the time. I now practice some of the adivce: only be check email once every few hours and find I didn't miss anything important. Sometimes it's good to be "on bottom of things" instead of "on top of things". 
+
+<https://usability.typepad.com/confusability/2008/04/knuths-advice-f.html>
+
+I included the amazon link here just as reference, I actually borrowed the book from library. 
+
+<https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692>
+
+# how to write a first paper?
 
 I am working on writing a research paper these days for the first time. I have no idea what the process should be like. This link is very helpful.
 
 <https://github.com/jtleek/firstpaper>
 
-# how to work with advisor?
+# how to work with my advisor?
 
-Communication is not my strength, I am still learning:
+Thinking in another person's shoes sometimes get difficult. I have no idea how a professor feels so this is a very helpful post to read. Besides, communication is something I feel always worth learning and improving:
 
 <http://www.pgbovine.net/managing-me-as-your-advisor.htm>
 
