@@ -5,13 +5,11 @@ subtitle: helpful resources
 image: /img/tiantan.jpg
 ---
 
-This is my first post. It's not technical. It's about my lately thoughts on how to a better graduate student.
+Hi there, this is my first post. Currently, I am a 4th year graduate student. Maybe I should know how to be a graduate student very well by now. But the truth is that I am still constantly facing new situations that I am not sure what to do. I want to write about my recent thoughts and plots I found very helpful on *potentially* better manage my time and perform my tasks in graduate school. 
 
-Currently, I am a 4th year graduate student. Maybe I am supposed to know how to be a graduate student very well. But the truth is I am not yet. I am constantly seeing new situations that I feel hard to react to.
+For example, I have 3 tasks at hand: writing the first paper, starting a new project and learn a new technique for an ongoing project.  All of them are new to me and make me struggle in its own ways. I imagine this is the common situation for many graduate students. The isolation and loneliness is also probably nothing new. The question is how should I learn to accomplish these tasks? My advisor is supportive and gives good advice on directions but his job is not figuring out the details on my tasks. Also, I realize that I am probably less competent than he was as a Ph.D. student. So he might not understand some of my struggles since he never ran into it. Thus, I want to find some tutorials that walk me through on how these type of tasks (e.g. write a 1st paper) usually get done. As everything is becoming open source today, I thought I could use some advice from advisors online, let the community educate me.
 
-For example, I have 3 tasks at hand: writing the first paper, starting a new project and learn a new technique for an ongoing project.  All of them make me struggle in its own ways. I imagine this is the common situation for many graduate students. The isolation and loneliness is also probably nothing new. The question is how should I react? My advisor is supportive but he has limited time and his job is not show me the details on how to do every step. Also, I realize that I am probably less competent than he was as a Ph.D. student. So the progress he would make if he's doing this is probably much faster than I can and he may not understand some of my struggles. So I figured, I need to find something to help with my situation. As everything is becoming open source today, I thought I could use some advice from other advisors online.
-
-I've read through a lot of online posts. Most are either too generic or too specific. Lucily, here are a few posts I found really helpful, and likely applicable to many fields.
+I've read through a lot of online posts. Most of them are either too generic or too specific for me. Lucily, here are a few posts I found really helpful to my case, and likely applicable to many fields.
 
 # time management
 
@@ -38,11 +36,11 @@ I get stuck a lot lately on my projects and I wonder:
 
 Am I just not good enough for this project? 
 
-If someone may finish the same task faster and better than me, what's the point of me dragging this problem behind? That someone doesn't need to be a famous scientist, could just be a labmate sitting next to me. Why is my advisor still letting me do this? More importantly, what do I contribute? What's the value of me being here? 
+If someone may finish the same task faster and better than me, what's the point of me holding this project back? That someone doesn't need to be a famous scientist, could just be a labmate sitting next to me. Why is my advisor still letting me do this? More importantly, what do I contribute? What's the value of me being here? 
 
 These questions puzzle me a lot these days. 
 
-I searched quite a bit. It seems one way is to think about this as training for a sport: you may not be the best athelete, but you becoming better at it as you suffer through the training. Here is a good post on it:
+I searched quite a bit. It seems one way is to think about this as training for a sport: you may not be the best athelete, but you becoming better at it. I find I can live with it. Here is a good post on it:
 
 <http://pgbovine.net/maximizing-personal-potential.htm>
 
@@ -51,4 +49,4 @@ Another piece I found helpful is probably cliche, but it's very moving and touch
 "I leave Sisyphus at the foot of the mountain. One always finds one’s burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy."
 
 
-If you are in graduate school as well, hope we can all make it a fulfilling experience!
+If you are in graduate school as well, may the forth be with you and hope we can all make it a fulfilling experience!
