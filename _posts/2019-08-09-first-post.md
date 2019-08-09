@@ -27,7 +27,7 @@ I am working on writing a research paper these days for the first time. I have n
 
 Communication is not my strength, I am still learning:
 
-<http://www.pgbovine.net/managing-me-as-your-advisor.html>
+<http://www.pgbovine.net/managing-me-as-your-advisor.htm>
 
 # how to stay positive when you wonder whether your work matters? 
 
@@ -42,7 +42,7 @@ These questions puzzle me a lot these days.
 
 I searched quite a bit. It seems one way is to think about this as training for a sport: you may not be the best athelete, but you becoming better at it as you suffer through the training. Here is a good post on it:
 
-<http://pgbovine.net/maximizing-personal-potential.html>
+<http://pgbovine.net/maximizing-personal-potential.htm>
 
 Another piece I found helpful is probably cliche, but it's very moving and touching. It's from *the Myth of Sisyphus* by Albert Camus. 
 
