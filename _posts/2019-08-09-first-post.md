@@ -36,7 +36,7 @@ I get stuck a lot lately on my projects and I wonder:
 
 Am I just not good enough for this project? 
 
-Someone might finish the same task faster and better than me. That someone doesn't need to be a genius, could just be a labmate sitting next to me. Then what's the point of me dealing with this? Why is my advisor still spending his time showing me how to do this? More importantly, what do I contribute? What's the worth of me being here? 
+If someone may finish the same task faster and better than me, what's the point of me dragging this problem behind? That someone doesn't need to be a famous scientist, could just be a labmate sitting next to me. Why is my advisor still letting me do this? More importantly, what do I contribute? What's the value of me being here? 
 
 These questions puzzle me a lot these days. 
 
@@ -44,8 +44,9 @@ I searched quite a bit. It seems one way is to think about this as training for 
 
 http://pgbovine.net/maximizing-personal-potential.htm
 
-Another piece is probably cliche, but I still find it moving and touching. It's from the Myth of Sisyphus. 
+Another piece I found helpful is probably cliche, but it's very moving and touching. It's from the Myth of Sisyphus by Albert Camus. 
 
 "I leave Sisyphus at the foot of the mountain. One always finds one’s burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy."
 
 
+If you are in graduate school as well, hope we can all make it a fulfilling experience!
