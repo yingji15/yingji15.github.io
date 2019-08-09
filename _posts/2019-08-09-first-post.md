@@ -19,7 +19,7 @@ I have done all the coursework now. So I have long hours sitting in front of my 
 
 # how to do 'deep work' in a distracted world?
 
-I strongly recommend the book *deep work*. I used to be online all the time. I now practice some of the adivce: only be check email once every few hours and find I didn't miss anything important. Sometimes it's good to be "on bottom of things" instead of "on top of things". 
+I strongly recommend the book *deep work*. I used to be online (email, slack etc) all the time. I now practice some of the adivce: only be checking email/social media once every few hours as a break from deep work instead of getting distracted all the time. I find I didn't miss anything important so far. Sometimes it's good to be "on bottom of things" instead of "on top of things". 
 
 <https://usability.typepad.com/confusability/2008/04/knuths-advice-f.html>
 
@@ -35,7 +35,7 @@ I am working on writing a research paper these days for the first time. I have n
 
 # how to work with my advisor?
 
-Thinking in another person's shoes sometimes get difficult. I have no idea how a professor feels so this is a very helpful post to read. Besides, communication is something I feel always worth learning and improving:
+Thinking in another person's shoes sometimes get difficult. It's hard to imagine how a professor feels so this is a very helpful post to read. Besides, communication is something I feel always worth learning and improving:
 
 <http://www.pgbovine.net/managing-me-as-your-advisor.htm>
 
