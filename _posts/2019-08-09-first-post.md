@@ -5,11 +5,13 @@ subtitle: helpful resources
 image: /img/tiantan.jpg
 ---
 
-This is my first post. It's not technical. It's about my lately thoughts on how to be better as a graduate student.
+This is my first post. It's not technical. It's about my lately thoughts on how to a better graduate student.
 
-Currently, I have 3 things at hand and all of them make me struggle from time to time. My advisor is supportive but he has limited time. As everything is becoming open source today, I thought I could use some advice from other advisors online.
+Currently, I am a 4th year graduate student. Maybe I am supposed to know how to be a graduate student very well. But the truth is I am not yet. I am constantly seeing new situations that I feel hard to react to.
 
-Here are a few posts I found really helpful.
+For example, I have 3 tasks at hand: writing the first paper, starting a new project and learn a new technique for an ongoing project.  All of them make me struggle in its own ways. I imagine this is the common situation for many graduate students. The isolation and loneliness is also probably nothing new. The question is how should I react? My advisor is supportive but he has limited time and his job is not show me the details on how to do every step. Also, I realize that I am probably less competent than he was as a Ph.D. student. So the progress he would make if he's doing this is probably much faster than I can and he may not understand some of my struggles. So I figured, I need to find something to help with my situation. As everything is becoming open source today, I thought I could use some advice from other advisors online.
+
+I've read through a lot of online posts. Most are either too generic or too specific. Lucily, here are a few posts I found really helpful, and likely applicable to many fields.
 
 # time management
 
