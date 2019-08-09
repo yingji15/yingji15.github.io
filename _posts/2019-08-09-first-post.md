@@ -1,7 +1,7 @@
 ---
 layout: post
-title: When I wonder about how to live my life 
-subtitle: as a graduate student
+title: To be a graduate student for the first time  
+subtitle: helpful resources
 image: /img/tiantan.jpg
 ---
 
