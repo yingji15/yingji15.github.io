@@ -1,1 +1,1 @@
-My blog, template from https://github.com/daattali/beautiful-jekyll
+Hi there! This is my personal website/blog.
