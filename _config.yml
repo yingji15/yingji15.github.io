@@ -33,7 +33,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "/img/IMG_3492.JPG"
+# title-img: "/img/IMG_3492.JPG"
 
 # --- Background colour/image options --- #
 
@@ -68,7 +68,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  #rss: true
   #email: "someone@example.com"
   #facebook: deanattali
   github: yingji15
