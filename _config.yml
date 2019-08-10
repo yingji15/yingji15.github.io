@@ -20,7 +20,9 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: 
+    - Introduction: "aboutme"
+    - Resume: "resume"
   Publications: "publications"
   Posts: "Blogs"
   Contact : "contact"
@@ -37,8 +39,8 @@ avatar: "/img/tiantan.jpg"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#006400"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-text-col: "#F5FFFA"
+navbar-children-col: "#F5FFFA"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
