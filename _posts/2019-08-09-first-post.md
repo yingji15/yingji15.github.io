@@ -2,7 +2,8 @@
 layout: post
 title: To be a graduate student for the first time  
 subtitle: helpful resources
-image: /img/tiantan.jpg
+bigimg: /img/tiantan.jpg
+tags: [life, graduate school]
 ---
 
 Hi there, this is my first post. Currently, I am a 4th year graduate student. Maybe I should know how to be a graduate student very well by now. But the truth is that I am still constantly facing new situations that I am not sure what to do. I want to write about my recent struggles on accomplishing research tasks and resource I found helpful to me when dealing with these problems. 
