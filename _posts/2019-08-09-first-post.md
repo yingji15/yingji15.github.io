@@ -59,5 +59,7 @@ Another piece I found helpful is probably cliche, but it's very touching. It's f
 
 "I leave Sisyphus at the foot of the mountain. One always finds one’s burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy."
 
+There's also a good one from Bertrand Russell
+ “Gradually I learned to be indifferent to myself and my deficiencies; I came to center my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection.”
 
 If you are in graduate school as well, may the forth be with you and hope we can all make it a fulfilling experience!
