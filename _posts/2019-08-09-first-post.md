@@ -40,7 +40,7 @@ Thinking in another person's shoes sometimes get difficult. It's hard to imagine
 
 <http://www.pgbovine.net/managing-me-as-your-advisor.htm>
 
-There is also some good advice to be mindful of advisor's time. This is from a document our graduate school coach give to me when I ask about "align mentor trainee expectations". I've made the mistake of submitting stuff to my advisor with very short time frame before.
+There is also some good advice to be mindful of advisor's time. This is from a document our graduate school coach give to me when I ask about "align mentor trainee expectations". I've made the mistake of submitting stuff to my advisor with very short notice.
 
 "Be mindful of the constraints on my time. When we set a deadline, I will block off time to read
 and respond to your work. If I do not receive your materials, I will move your project to the end of
