@@ -14,7 +14,7 @@ I've read through a lot of online posts and some books. Most of them are either 
 
 # time management
 
-I have done all the coursework now. So I have long hours sitting in front of my desk trying to solve some problem I don't really know how to solve. That's the way it supposed to be. But it is also very new to me. How can I spend my time to make progress? This posts shows me how to make a 'task schedule' of my own. 
+I have done all the coursework now. So I have all the unstructured time trying to solve some problem I don't really know how to solve. That's the way it supposed to be. But it is actually very new to me. How can I spend my time to make progress? This posts shows me how to make a 'task schedule' of my own that move me forward to my goals. 
 
 <https://livefreeordichotomize.com/2018/09/14/one-year-to-dissertate/>
 
@@ -40,18 +40,29 @@ Thinking in another person's shoes sometimes get difficult. It's hard to imagine
 
 <http://www.pgbovine.net/managing-me-as-your-advisor.htm>
 
+There is also some good advice to be mindful of advisor's time. This is from a document our graduate school coach give to me when I ask about "align mentor trainee expectations". I've made the mistake of submitting stuff to my advisor with very short time frame before.
+
+"Be mindful of the constraints on my time. When we set a deadline, I will block off time to read
+and respond to your work. If I do not receive your materials, I will move your project to the end of
+my queue. 
+
+**Allow a minimum of one week prior to submission deadlines for me to read and respond
+to short materials such as conference abstracts and three weeks for me to work on manuscripts or
+grant proposals**.
+
+Please do not assume I can read materials within a day or two, especially when I
+am traveling."
+
+
 # how to stay positive when you wonder whether your work matters? 
 
 This is a very important one for me. 
-I get stuck a lot lately on my projects and I wonder:
 
-Am I just not good enough for this project? 
+I get stuck a lot lately on my projects and I wonder: am I just not good enough for this project? 
 
 If someone may finish the same task faster and better than me, what's the point of me holding this project back? That someone doesn't need to be a famous scientist, could just be a labmate sitting next to me. Why is my advisor still letting me do this? More importantly, what do I contribute? What's the value of me being here? 
 
-These questions puzzle me a lot these days. 
-
-I searched quite a bit. It seems one way is to think about this as training for a sport: you may not be the best athelete, but you becoming better at it. I find I can live with it. Here is a good post on it:
+These questions puzzled me a lot. I searched quite a bit. One answer I found acceptable to me is to think about this as training for a sport: you may not be the best athelete, but you becoming better at it. Here is a good post on it:
 
 <http://pgbovine.net/maximizing-personal-potential.htm>
 
