@@ -12,9 +12,9 @@ For example, I have 3 tasks at hand: writing the first paper, starting a new pro
 
 I've read through a lot of online posts and some books. Most of them are either too generic or too specific for me. Lucily, here are a few posts I found really helpful to my case, and likely applicable to many fields.
 
-# time management
+# how to use the unstructured time effectively?
 
-I have done all the coursework now. So I have all the unstructured time trying to solve some problem I don't really know how to solve. That's the way it supposed to be. But it is actually very new to me. How can I spend my time to make progress? This posts shows me how to make a 'task schedule' of my own that move me forward to my goals. 
+I have done all the coursework now. So I have all the unstructured time trying to solve some problem I don't really know how to solve. That's the way it supposed to be. But it is actually very new to me. How can I spend my time to make progress? This posts shows me how to make a 'task schedule' of my own to help me meet my goals. 
 
 <https://livefreeordichotomize.com/2018/09/14/one-year-to-dissertate/>
 
