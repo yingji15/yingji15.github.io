@@ -10,7 +10,7 @@ My name is Ying Ji. I am currently living in Nashville, TN. I come from Beijing,
 
 Recently, I find although we are learning new materials on statistics, programming and other life hacks all the time, it's very easy to forget. I'm creating this blog to synthesis and keep track of the materials I learn. 
 
-In my spare time, I enjoy reading, running and traveling. These activities have helped me relax and make new friends.
+In my spare time, I enjoy reading, running and traveling. I try out new activites (e.g. dancing, learning new language, climbing) from time to time. These activities help me relax and make new friends. 
 
 
 
