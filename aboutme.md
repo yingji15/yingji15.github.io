@@ -6,11 +6,11 @@ subtitle: A little about me
 
 Hi there! Welcome to my site!
 
-My name is Ying Ji. I am currently living in Nashville, TN. I come from Beijing, China. I got a B.S. in Biological Sciences from Tsinghua University in 2015. Then I became a graduate student studying *Statistical Genetics* at Vanderbilt University <https://medsites.mc.vanderbilt.edu/vgi/mission>. I work on using machine learning approaches for risk gene identification and patient outcome predictions. I feel excited to be in the era when new technological are generating large amounts of biological data and we can working towards making sense of them using statistical and computational approaches.
+My name is Ying Ji. I come from Beijing, China. I am currently living in Nashville, TN. I am a graduate student studying Statistical Genetics at Vanderbilt University <https://medsites.mc.vanderbilt.edu/vgi/mission>. I work on application and development of statistical and computational approaches to understand genetic basis of human diseases. I feel excited to be in the era when we can make data-driven discoveries of biological 'puzzles' with large amounts of data and computational capacities available.
 
-Recently, I find although we are learning new materials on statistics, programming and other life hacks all the time, it's very easy to forget. I'm creating this blog to synthesis and keep track of the materials I learn. 
+There's no doubt we need to educate ourselves all the time. One problem I ran into is that it's very easy to lose the "hard to get" knowledge we learned. I'm creating this blog to synthesis and keep track of the materials on data processing, statistics and general "life lessions" that are of interest to me. 
 
-In my spare time, I enjoy reading, running and traveling. I also like trying out new activites (e.g. dancing, learning new language, wall climbing) from time to time. These activities help me relax and make new friends. 
+In my spare time, I enjoy reading, running and traveling. I also like trying out new activites (e.g. dancing, learning new language, go to exotic restaurants) from time to time. These activities help me relax and connect with old and new friends. 
 
 
 
