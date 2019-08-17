@@ -1,6 +1,7 @@
 ---
 layout: post
-title: inverse normal transformation: why and how?
+title: Inverse normal transformation
+subtitle: What is it and how to do it?
 tags: [data transformation, statistics]
 ---
 
@@ -16,7 +17,7 @@ There are several types of inverse-normal transformations: non-rank based vs ran
 We talk about the commonly used rank based one.
 The idea is simple: first converting a variable to ranks, and then back transform of sample quantile/fractional rank to approximate the expected normal scores.
 
-$$ Y = \phi^{-1}(\frac{r-c}{N-2c+1})$$
+$$Y=\phi^{-1}(\frac{r-c}{N-2c+1})$$
 
 Blom recommend: $$c=\frac{3}{8}$
 
