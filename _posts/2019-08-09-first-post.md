@@ -65,24 +65,20 @@ Please do not assume I can read materials within a day or two, especially when I
 am traveling."
 
 
-# how to stay positive when you wonder whether your work matters? 
+# how to deal with self-doubt? 
 
-This is a very important one for me. 
+Sometimes (probably often) I get stuck on my projects and I wonder: am I just not good enough for this project? Maybe I am not smart enough? Maybe I don't have the right resources? 
 
-I get stuck a lot lately on my projects and I wonder: am I just not good enough for this project? 
-
-If someone may finish the same task faster and better than me, what's the point of me holding this project back? That someone doesn't need to be a famous scientist, could just be a labmate sitting next to me. Why am I still doing this? More importantly, what do I contribute? What's the value of me doing this? 
-
-These questions puzzled me a lot. I searched quite a bit. One answer I found acceptable to me is to think about this as training for a sport: you may not be the best athelete, but you becoming better at it. Here is a good post on it:
+These questions have puzzled me a lot. I searched quite a bit. Here is a way of thinking I found helpful: stop obsessing over whether you are good or worthy enough -- just decide what you want to do, commit and "commit hard". It is not about you being the best athelete, but you becoming better at it though doing. Here is a good post on it:
 
 <http://pgbovine.net/maximizing-personal-potential.htm>
 
-Another piece I found helpful is a quote, probably you've seen it many times. It's from *the Myth of Sisyphus* by Albert Camus. 
+A piece I found related is a quote, probably you've seen it many times. It's from *the Myth of Sisyphus* by Albert Camus. 
 
-"I leave Sisyphus at the foot of the mountain. One always finds one’s burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy."
+"*I leave Sisyphus at the foot of the mountain. One always finds one’s burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy*."
 
 There's also a good one from Bertrand Russell
 
- “Gradually I learned to be indifferent to myself and my deficiencies; I came to center my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection.”
+ “*Gradually I learned to be indifferent to myself and my deficiencies; I came to center my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection*.”
 
 If you are in graduate school as well, may the forth be with you and hope we can all make it a fulfilling experience!
