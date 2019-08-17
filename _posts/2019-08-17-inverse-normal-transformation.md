@@ -40,7 +40,7 @@ The tests of group differences in location (e.g., mean) of inverse-normal transf
 Since inverse-normal transformation only make sure the marginal distribution is normal, it doesn't make the residuals normal by definition (which is what usually needed for linear models and parametric tests).
 But in reality, since in some genetic contexts, the fixed part of model (e.g. $$X\beta$$) usually small, so sample normality often lead to residual normality. "However, in this context, where effect sizes are expected to be generally rather small, normality of phenotype and normality of residuals are somewhat similar assumptions" (taken from <https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030114>). 
 
-My impression is that it might not be the best transformation for some situations, but it definitely work in many genetic contexts.
+My impression is that it might not be the best transformation for some situations, but it works in many genetic contexts.
 
 
 
