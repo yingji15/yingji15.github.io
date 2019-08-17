@@ -19,13 +19,13 @@ The idea is simple: first converting a variable to ranks, and then back transfor
 
 $$Y=\phi^{-1}(\frac{r-c}{N-2c+1})$$
 
-Blom recommend: $$c=\frac{3}{8}$
+Blom: $$c=\frac{3}{8}$$
 
 Rankit：c = 0.5 (also used a lot)
 
 # how to do inverse-normal transformation?
 
-Do a normal quantile transform to phenotypes (replacing the rth biggest of N observations with the (r − 0.5)/Nth quantile of the standard normal distribution) before applying our methods. 
+Take Rankit as an example, we do a normal quantile transform to observed quantitative phenotypes (replacing the rth biggest of N observations with the (r − 0.5)/Nth quantile of the standard normal distribution). 
 
 R code to do this (thanks to <https://www.biostars.org/p/80597/>):
 
@@ -37,11 +37,10 @@ qnorm((rank(x,na.last="keep")-0.5)/sum(!is.na(x)))
 
 The tests of group differences in location (e.g., mean) of inverse-normal transformed variables doesn't ganrantee type I error rate from this papaer
 <https://link.springer.com/article/10.1007%2Fs10519-009-9281-0>. 
-Since inverse-normal transformation only make sure the marginal distribution is normal, it doesn't make the residuals normal by definition.
-But in reality, since "However, in this context, where effect sizes are expected to be generally rather small, normality of phenotype and normality of residuals are somewhat similar assumptions", 
-it'll probably work in many genetics studies (taken from <https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030114>). 
-That could also be the reason that it is widely used in the field.
+Since inverse-normal transformation only make sure the marginal distribution is normal, it doesn't make the residuals normal by definition (which is what usually needed for linear models and parametric tests).
+But in reality, since in some genetic contexts, the fixed part of model (e.g. $$X\beta$$) usually small, so sample normality often lead to residual normality. "However, in this context, where effect sizes are expected to be generally rather small, normality of phenotype and normality of residuals are somewhat similar assumptions" (taken from <https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030114>). 
 
+My impression is that it might not be the best transformation for some situations, but it definitely work in many genetic contexts.
 
 
 
