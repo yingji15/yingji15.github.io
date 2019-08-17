@@ -34,6 +34,17 @@ I am working on writing a research paper these days for the first time. I have n
 
 <https://github.com/jtleek/firstpaper>
 
+<https://github.com/neurodata/nd_template/tree/master/Draft>
+
+
+# how to read papers?
+
+My advisor always encourage me to read broadly. I never knew how to really implement this idea until reading this post. I always spend like 1 hour or more reading from start to end, and sometimes got lost in details (e.g. can't figure out how the math work in the methods section). I don't even get the major takeaways from lots of papers I read.  
+
+After reading this post, I find I could start with a "BFS" approach before going "DFS". I will practice using this approach. 
+
+<https://blog.usejournal.com/advice-on-building-a-machine-learning-career-and-reading-research-papers-by-prof-andrew-ng-f90ac99a0182>
+
 # how to work with my advisor?
 
 Thinking in another person's shoes sometimes get difficult. It's hard to imagine how a professor feels so this is a very helpful post to read. Besides, communication is something I feel always worth learning and improving:
