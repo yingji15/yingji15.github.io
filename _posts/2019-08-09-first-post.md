@@ -73,6 +73,8 @@ These questions have puzzled me a lot. I searched quite a bit. Here is a way of 
 
 <http://pgbovine.net/maximizing-personal-potential.htm>
 
+<http://www.theexclusive.org/2018/04/worth.html>
+
 A piece I found related is a quote, probably you've seen it many times. It's from *the Myth of Sisyphus* by Albert Camus. 
 
 "*I leave Sisyphus at the foot of the mountain. One always finds one’s burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy*."
