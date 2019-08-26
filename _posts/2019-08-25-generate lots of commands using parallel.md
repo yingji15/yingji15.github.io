@@ -1,3 +1,10 @@
+---
+layout: post
+title: commands generation with no pain
+subtitle: GNU parallel
+tags: [utility]
+---
+
 In our work, we often need to generate lots of similar commands at once. 
 There are lots of ways to do this, I just want to write about the one I used the most often: Parallel
 
