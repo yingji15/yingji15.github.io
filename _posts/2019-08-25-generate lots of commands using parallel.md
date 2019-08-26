@@ -1,6 +1,6 @@
 ---
 layout: post
-title: commands generation with no pain
+title: generate lots of string combinations at once
 subtitle: GNU parallel
 tags: [utility]
 ---
