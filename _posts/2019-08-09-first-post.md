@@ -83,4 +83,6 @@ There's also a good one from Bertrand Russell
 
  “*Gradually I learned to be indifferent to myself and my deficiencies; I came to center my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection*.”
 
+I have to admit sometimes nothing helps. But I think it's probably okay to acknowledge that and experience the feelings for a while. 
+
 If you are in graduate school as well, may the forth be with you and hope we can all make it a fulfilling experience!
