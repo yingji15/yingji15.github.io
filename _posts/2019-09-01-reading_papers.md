@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to read papers as junior researcher?  
+title: How to read papers as a graduate student/junior researcher?  
 subtitle: Don't read each paper in depth!
 tags: [efficiency]
 ---
