@@ -33,7 +33,7 @@ I have started doing this and it made my life so much easier.
 
 - Do not care about the techinical details and do not take notes while reading the first time, after reading, close the paper and think about "what did I learn that is relevant to my project?", then take note of that.
 
-- Read 20 papers on a research topic can be done easily and give a reasonably sense of what questions people care about, what approaches people use on this topic. 
+- Read 20 papers like this on a research topic can be done easily and give a reasonably sense of what questions people care about, what approaches people use on this topic. 
 
 There's also a issue of reading too much. As Phillip Guo said in the article linked above 
 
@@ -43,12 +43,11 @@ The more papers you read, the more discouraged you will grow because you'll come
 I realized I have this problem since I started following researchers I admire on Twitter. Their insights and good creative taste always impress me but also seeing their tweets make me feel 
 "oh they are interested in this problem as we do... Oh they published this model! ... oh that's so elegant, I can never do that... oh I should quit this idea..."
 
-Now I decide to start follow Phillip Guo's advice: First start building up some momentum on your research project for at least a few weeks. How you should do so is wayyy beyond the scope of this article, but just first get started on a somewhat promising path.
-After you've built up momentum, start reading.
+Now I decide to start follow Phillip Guo's advice: **First start building up some momentum on your research project for at least a few weeks...just first get started on a somewhat promising path. After you've built up momentum, start reading.**
 
-I will not start searching and reading first because in my case, that's very likely to kill the research project.
+I learned the lesson: do not start searching and reading when first starting on a problem! Because in my case, that's very likely to do more harm than good for my research progress.
 
-
+I wish I knew this earlier in grad school... 
 
 
 
