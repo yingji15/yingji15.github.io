@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Linear model regularization
+title: How to improve linear models?
 tags: [statistics]
 ---
 
 
 
-# Linear Model Selection and Regularization
+# 1. Linear Model Selection and Regularization
 
 $$Y = \beta_{0} + \beta_{1} X_{1} + ... + \beta_{p} X_{p} + \epsilon$$
 
@@ -17,6 +17,7 @@ how to improve on linear models?
 p > N: the variance is infinite (more columns than rows), so no longer unique least square solution
 
 why?
+
 Think about augmented matrix. To get solution, we transform it into row-reduced echelon form.
 For example, we end up with a 2x3 matrix, there's no unique solution for x1, x2, x3 to meet 2 equations.
 We will have no solutions whenever we end up with one or more rows of all 0s except in the last column as we reduce the augmented matrix.
@@ -50,7 +51,7 @@ variable selection.
 The ridge solutions are not equivariant under scaling of the inputs, and
 so one normally standardizes the inputs before solving
 
-$$x_{ij}$$$$ replaced by $$x_{ij}-\bar{x_{j}}$$$$
+$$x_{ij}$$ replaced by $$x_{ij}-\bar{x_{j}}$$
 
 minimize sum of residual sum of squares and a penalty term
 
@@ -60,7 +61,7 @@ In matrix form,
 
 $$RSS(\lambda)=(y-X\beta)^{T}(y-X\beta)+\lambda \beta^{T}\beta$$
 
-$$$$\hat{\beta}=(X^{T}X+\lambda I)^{-1} X^{T}y$$
+$$\hat{\beta}=(X^{T}X+\lambda I)^{-1} X^{T}y$$
 
 This: add positive constant to diagnonal of $$X^{T}x$$ before inversion: make it nonsingular
 
@@ -118,7 +119,9 @@ posterior distribution of $$\beta$$
 
 prior: independent and identical laplace (double-exp) with mean 0 and scale $$\tau$$
 
-laplace: $$p(x|\mu,b)=\frac{1}{2b}exp(-\frac{|x-\mu|}{b})$$
+laplace: 
+
+$$p(x|\mu,b)=\frac{1}{2b}exp(-\frac{|x-\mu|}{b})$$
 
 here, $$\beta \sim Laplace(0,\tau)$$
 
@@ -261,13 +264,18 @@ largest R2, since these quantities are related to the training error. Instead,
 we wish to choose a model with a low test error
 
 
-#3.1 adjust R2
+## 3.1 adjust R2
 
 We can indirectly estimate test error by making an adjustment to the
 training error to account for the bias due to overfitting.
 
-#3.2 cross validation
+## 3.2 cross validation
 
 We can directly estimate the test error, using either a validation set
-approach or a cross-validation approach, as discussed in Chapter 5.
+approach or a cross-validation approach.
 
+
+
+References:
+
+The Elements of. Statistical Learning: Data Mining, Inference, and Prediction. Second Edition. February 2009. Trevor Hastie · Robert Tibshirani.
