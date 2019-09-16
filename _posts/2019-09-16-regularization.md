@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Linear model regularization
+tags: [statistics]
+---
 
 
 
@@ -238,15 +242,7 @@ this is the soft threshold function $$\frac{1}{z_{k} S(p_{k},\lambda)}$$
 
 
 
-# data normalization as input
 
-#xptrain<-scale(prostate[prostate$$train==TRUE,1:8],TRUE,TRUE)
-#ytrain<-prostate[prostate$$train==TRUE,"lpsa"]
-#from book, include a columns of 1
-#xtrain<-cbind(1,xptrain)
-#colnames(xtrain)[1]<-c("intercept")
-
-```
 
 
 # 2.3 dimension reduction
