@@ -1,18 +1,18 @@
 ---
 layout: post
-title: How to improve linear models?
+title: Notes on linear model improvement
+subtitle: special focus on Ridge and Lasso
 tags: [statistics]
 ---
 
+Although there are many nonlinear "fancy" models, we know linear models still have advantages in inference and works well in real world.
 
+Then how to improve on linear models? Here are some notes on this, with special focus on Ridge and Lasso.
 
 # 1. Linear Model Selection and Regularization
 
 $$Y = \beta_{0} + \beta_{1} X_{1} + ... + \beta_{p} X_{p} + \epsilon$$
 
-linear models have advantages in inference and works well in real world
-
-how to improve on linear models?
 
 p > N: the variance is infinite (more columns than rows), so no longer unique least square solution
 
@@ -33,7 +33,9 @@ predictors that we believe to be related to the response. We then fit
 a model using least squares on the reduced set of variables
 
 - best subset: $$2^{p}$$ computation heavy
+
 - forward stepwise: $$1+ \sum{k=0}^{p} p-k = 1+ \frac{p(p+1)}{2}$$ may miss best solution
+
 - backward stepwise: $$1+ \frac{p(p+1)}{2}$$ not work for n>p , may miss best solution
 
 # 2.2 shrinkage
@@ -99,7 +101,59 @@ $$(y-x\beta)^{T}(y-x\beta)+\frac{\sigma^2}{\tau^2}||\beta||^{2}$$
 
 $$\lambda = \frac{\sigma^2}{\tau^2}$$
 
+
 ## implement ridge
+
+(see this more like psedocode, just to show some basic concept)
+
+
+```
+#ridge estimation take lambda as input
+ridge<-function(l){
+        imat<-diag(x=l,ncol(xptrain)) 
+        bri<- solve(t(xptrain)%*%xptrain+imat)%*%t(xptrain)%*%(ytrain-mean(ytrain))
+        return(bri)
+}
+
+```
+
+if given degree of freedom, want to know lambda:
+
+From book, effective degress of freedom
+
+HTF 3.50
+
+$$df(\lambda)=tr[X(X^{T}X+\lambda I)^{-1}X^{T}]=\sum_{j=1}^{p}\frac{d_{j}^2}{d_{j}^2+\lambda}$$
+
+Take k as the effective df,
+
+We can get lambda from df by solving this
+
+$$\sum_{j=1}^{p}\frac{d_{j}^2}{d_{j}^2+\lambda}-k=0$$
+
+To use Newton algorithm for solving this, take derivative with respect to $\lambda$:
+
+$$-\sum_{j=1}^{p}\frac{d_{j}^2}{(d_{j}^2+\lambda)^2}$$
+
+```{r}
+svdx <- svd(xptrain)
+dj<-svdx$d ## all singular values
+k=5 #df = 5 here as an example, could be other value
+xn=0 #initial guess for lambda
+
+# do the first update by hand
+f =  sum( dj^2 / ( dj^2 + xn ) ) - k #function trying to solve
+fp = - sum( dj^2 / ( dj^2 + xn )^2 )  #first derivative
+xnp1 = xn -f/fp #1st time undate of x
+
+#we set tolerance to be 10-3 here
+while( abs(xn - xnp1)/abs(xn) > 10^(-3) ){
+      xn   = xnp1
+      f    =   sum( dj^2 / ( dj^2 + xn ) ) - k 
+      fp   = - sum( dj^2 / ( dj^2 + xn )^2 ) 
+      xnp1 = xn - f/fp       
+}
+```
 
 
 
@@ -139,9 +193,11 @@ to maximize
 $$f(\beta|y,x) \propto p(\beta)p(y|x,\beta) = (\frac{1}{2\tau})^{p} exp(\frac{- \sum_{j=1}^{p} |\beta_{j}| }{\tau}) (\sigma^2)^{-n/2} exp(- \frac{1}{2\sigma^2}(y-x\beta)^{T}(y-x\beta))$$
 
 log it
+
 $$\frac{- \sum_{j=1}^{p} |\beta_{j}| }{\tau}- \frac{1}{2\sigma^2}(y-x\beta)^{T}(y-x\beta)$$
 
 same as minimize
+
 $$\frac{ \sum_{j=1}^{p} |\beta_{j}| }{\tau} + \frac{1}{2\sigma^2}(y-x\beta)^{T}(y-x\beta)$$
 
 this is Lasso
@@ -241,6 +297,42 @@ this is the soft threshold function $$\frac{1}{z_{k} S(p_{k},\lambda)}$$
 3. compute $$z_{k}=\sum_{i=1}^{n} x_{k,i}^{2}$$
 4. set $$\beta_{k}=\frac{1}{z_{k} S(p_{k}, \lambda)}$$
 
+
+(see this more like psedocode, just to show some basic concept)
+
+```
+soft<-function(alpha,beta){
+        res = 0
+        if (beta>alpha){
+                res = beta - alpha
+        }else if (beta<-alpha){
+                res = beta+ alpha
+        }
+        
+        return (res)
+}
+
+grad<-function(x,y,alpha,beta){
+        n = nrow(x)
+        ols = -2*x(y-x*beta)/n
+        soft = soft(alpha,beta)/n
+        return (ols + soft)
+}
+
+#initiate beta=0.5
+
+beta = 0.5
+
+unilasso<-function(x,y,lambda,learnrate,itr){
+        
+        for (i in 1:itr){
+        grad = grad(X,y,lambda,beta)
+        beta = beta - learnrate*grad
+        }
+        
+        return (beta)
+}
+```
 
 
 
