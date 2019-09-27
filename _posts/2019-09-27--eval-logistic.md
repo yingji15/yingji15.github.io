@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to evaluate the value of an added independent variable in binary logistic regression models?  
+title: How to measure the value of an added independent variable in binary logistic regression models?  
 subtitle: About AUC, peudo-R2, likelihood ratio test
 tags: [stats]
 ---
@@ -34,7 +34,7 @@ interpret: AUC is the probability of correct ranking of a random “positive”-
 
 ### Maddala and Cox and Snell:
 
-$$R^{2}_{MCS}=1-\frac{}{L(Null)}{L(Full)})^{2/N}$$
+$$R^{2}_{MCS}=1-\frac{L(Null)}{L(Full)})^{2/N}$$
 
 full: full model
 
@@ -46,7 +46,7 @@ interpret: geometric mean square improvement
 
 since $$R^{2}_{MCS}$$ can exceed 1, rescale this to (0,1)
 
-$$R^{2}_{NK} = \frac{1-\frac{}{L(Null)}{L(Full)})^{2/N}$$ }{ 1- L(Null)^{2/N}}$$
+$$R^{2}_{NK} = \frac{1-\frac{L(Null)}{L(Full)})^{2/N}}{ 1- L(Null)^{2/N}}$$
 
 ### McFadden
 
