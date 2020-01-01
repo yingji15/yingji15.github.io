@@ -5,7 +5,7 @@ subtitle: Graduate student studying Statistical Genetics
 layout: page
 ---
 
-![Ying Ji](/img/Ying_092118.jpeg)<img src="image" width="40%">
+![Ying Ji](/img/Ying_092118_s.jpeg)
 
 Hi there! Welcome to my site!
 
