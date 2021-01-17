@@ -5,7 +5,7 @@ subtitle: Tactics I learned from the 2-day dissertation retreat
 tags: [writing]
 ---
 
-I've been working on wrapping up my research projects and writing manuscripts these days (as a 6-th year grad student, clock is ticking). Last week, the writing center in our university offered a visual 2-day dissertation retreat. I hesitated whether I should join when I saw the advertisement last month, because "they will talk about things everyone knows","their writing schedule doesn't work for me", "my simulations are not finalized, I can't write like that". But part of me is saying "These people are professional at writing, they can teach me somethings." So I signed up. It happened on Thursdaya and Friday last week. It was so good!
+I've been working on wrapping up my research projects and writing manuscripts these days (as a 6-th year grad student, clock is ticking). Last week, the writing center in our university offered a visual 2-day dissertation retreat. I hesitated whether I should join when I saw the advertisement last month, because "they will talk about things everyone knows", "their writing schedule doesn't work for me", "my simulations are not finalized, I can't write like that". But part of me is saying "These people are professional at writing, they can teach me something." So I signed up. It happened on Thursday and Friday. It turned out to be very helpful and I wanted to share what I learned below!
 
 The 2-day event happened like this:
 
@@ -41,7 +41,7 @@ Initially I hear this advice from a Tim Ferris interview with Jerry Seinfeld, I 
 
 > It’s like you’re going to hire a trainer to get in shape, and he comes over, and you go, “How long is the session?” And he goes, “It’s open-ended.” Forget it. I’m not doing it. It’s over right there. You’ve got to control what your brain can take. Okay? So if you’re going to exercise, God bless you, and that’s the best thing in the world you can do, but you got to know when is it going to end.
 
-So I started doing that in my writing process. Each morning, I use a Pomodore app and write for 2 or 3 45-minute pomodore sessions. I could usually get the major task done. It also feels great!
+So I started doing that in my writing process. Each morning, I use a Pomodore app and write for two or three 45-minute pomodore sessions. I could usually get the major task done. It also feels great!
 
 
 # 2. Have A times and B times
@@ -64,7 +64,7 @@ His advice is more practical: think about why you enjoy reading this article and
 
 My advisor always say my manuscript is not concise enough and the sentences are not polished enough. So I asked this during the consultation.
 
-The consultant introduced this checklist: keep a list of things you need to look for, could be your common mistakes. He introduced Wendy Belcher’s “Belcher Diagnostic Test”, which offers a straightforward way to systematically move through your manuscript using the Find/Search function in your word processor, identify common issues, and apply relatively simple fixes. For more details on the checklist, I found an example checklist online: https://www.utdallas.edu/studentsuccess/files/Belcher-Handout.pdf. He also recommended the book: Wendy Belcher’s Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success. This is a workbook, so there are lots of practical writing tasks to follow along. I am reading it and I would recommend fellow grad students to check this out.
+The consultant introduced this checklist: keep a list of things you need to look for, could be your common mistakes. He introduced Wendy Belcher’s “Belcher Diagnostic Test”, which offers a straightforward way to systematically move through your manuscript using the Find/Search function in your word processor, identify common issues, and apply relatively simple fixes. For more details on the checklist, I found an [example checklist online](https://www.utdallas.edu/studentsuccess/files/Belcher-Handout.pdf). He also recommended the book: *Wendy Belcher’s Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success*. This is a workbook, so there are lots of practical writing tasks to follow along. I am reading it and I would recommend fellow grad students to check this out.
 
 # 5. Grammar or style?
 
