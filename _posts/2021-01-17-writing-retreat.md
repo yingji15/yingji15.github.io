@@ -41,12 +41,14 @@ Initially I hear this advice from a Tim Ferris interview with Jerry Seinfeld, I 
 
 > It’s like you’re going to hire a trainer to get in shape, and he comes over, and you go, “How long is the session?” And he goes, “It’s open-ended.” Forget it. I’m not doing it. It’s over right there. You’ve got to control what your brain can take. Okay? So if you’re going to exercise, God bless you, and that’s the best thing in the world you can do, but you got to know when is it going to end.
 
-So I started doing that in my writing process. Every morning, I use a Pomodore app and set each session to be 45 minutes and I write about the session I want to tackle for 2 or 3 pomodores. It was great!
+So I started doing that in my writing process. Each morning, I use a Pomodore app and write for 2 or 3 45-minute pomodore sessions. I could usually get the major task done. It also feels great!
 
 
 # 2. Have A times and B times
 
 Sometimes our brain can handle hard things easily, and sometimes even easy things seem hard. It's important to know when you work best and allocate tasks strategically.
+
+This part is from the retreat handout:
 
 > Try to keep your “A times” focused on your most important or difficult tasks, such as drafting new material or significantly revising material. Similarly, try not to let your A Times get bogged down with more mindless tasks (like formatting or cleaning up citations).
 
@@ -56,21 +58,19 @@ Sometimes our brain can handle hard things easily, and sometimes even easy thing
 
 My advisor adviced me "read the paper you like and try to learn from them". I tried but it seems I don't really get it. So I asked the writing consultant during my appointment. 
 
-His advice is more practical: think about why you enjoy reading this article and take notes on those. Then try to incorporate to your own writing. I think this simple principles applies to many things. I remember reading about a book on how to build your closet, the author suggested to collect photos on outfits you like and try to see what do you like about those. I will try this more.
+His advice is more practical: think about why you enjoy reading this article and take notes on those. Then try to incorporate to your own writing. I think this simple principles applies to many things. I remember reading about a book on how to build your capsule wordrobe, the author suggested to collect photos on outfits you like and try to see what do you like about those. I will try this more.
 
 # 4. About revision: keep a checklist
 
 My advisor always say my manuscript is not concise enough and the sentences are not polished enough. So I asked this during the consultation.
 
-The consultant introduced this checklist: keep a list of things you need to look for, could be your common mistakes. He introduced Wendy Belcher’s “Belcher Diagnostic Test”, which offers a straightforward way to systematically move through your manuscript using the Find/Search function in your word processor, identify common issues, and apply relatively simple fixes. 
+The consultant introduced this checklist: keep a list of things you need to look for, could be your common mistakes. He introduced Wendy Belcher’s “Belcher Diagnostic Test”, which offers a straightforward way to systematically move through your manuscript using the Find/Search function in your word processor, identify common issues, and apply relatively simple fixes. For more details on the checklist, I found an example checklist online: https://www.utdallas.edu/studentsuccess/files/Belcher-Handout.pdf. He also recommended the book: Wendy Belcher’s Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success. This is a workbook, so there are lots of practical writing tasks to follow along. I am reading it and I would recommend fellow grad students to check this out.
 
-I found an example checklist online: https://www.utdallas.edu/studentsuccess/files/Belcher-Handout.pdf
+# 5. Grammar or style?
 
-He also recommended the book: Wendy Belcher’s Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success 
-
-The book is a workbook, so there are lots of practical writing tasks to follow along. I am reading it and I really like the book. I would recommend fellow grad students to check this out.
+I asked the consultant about my grammar when we looked at my own writing. He said my grammar is not too big a issue, the major problems is with style. As a international student, I always make grammar mistakes so I thought the major hurdle of my writing is with grammar. But after this, I think probably I should focus more on my style. So I think it's important to talk to someone to figure out what's the major problem with your writing and tackle that first. 
 
 
-These are my major takeaways from the retreat. It's also great to see other students in my year! We were not close so we didn't really hang out together lately, but it feels great to see everyone on their own path and working on the dissertation at the same time. 
+These are my major takeaways from the retreat. It's also great to see other students in my year! We were not close so we didn't really hang out together lately, but it feels great to see fellow grad students coming to the end of the journey and working on the dissertation around the same time. 
 
 
