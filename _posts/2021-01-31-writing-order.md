@@ -36,7 +36,7 @@ Writing a three-to five-page draft: Here a recommended order quoted in the book 
 
 > 6. Abstract
 
-# From Professor Jeff Leek [first paper](https://github.com/jtleek/firstpaper)
+# From Professor Jeff Leek's guide to [first paper](https://github.com/jtleek/firstpaper)
 
 > 1. Once you have a set of results and are ready to start writing up the paper the first thing is not to write. The first thing you should do is create a set of 1-4 publication-quality plots (see Chapter 10 here). Show these to Jeff to get confirmation on them before proceeding.
 
