@@ -5,7 +5,7 @@ subtitle: Several takes on the process
 tags: [writing]
 ---
 
-I have faith in systems. Like the author Scott Adams says in his book *How to fail at almost everything and still win big*  
+When it comes to doing something serious, I believe in systems. Like the author Scott Adams says in his book *How to fail at almost everything and still win big*  
 
 > A system is something you do on a regular basis that increases your odds of happiness in the long run. If you do something every day, it’s a system. If you’re waiting to achieve it someday in the future, it’s a goal.
 
