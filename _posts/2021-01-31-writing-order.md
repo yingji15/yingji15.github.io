@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The order to write a manuscript 
-subtitle: Several takes on the process 
+title: The recommended orders for writing a manuscript 
 tags: [writing]
 ---
 
